@@ -2,7 +2,7 @@
 
 Upload PDFs, ask questions in natural language, and get answers grounded in the document with **page references and source excerpts**. Built with Retrieval-Augmented Generation (RAG), semantic search and an optional free-tier LLM. It works fully **without any API key** using local extractive answering.
 
-Live Demo: 
+Live Demo: https://pdf-intelligence-system-nine.vercel.app
 
 > Individual B.Tech CSE (7th semester) minor project, GGSIPU.
 
